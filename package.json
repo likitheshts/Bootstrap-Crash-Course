@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/Likithesh46/git-test/issues"
   },
-  "homepage": "https://github.com/Likithesh46/git-test#readme"
+  "homepage": "https://github.com/Likithesh46/git-test#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
 }
