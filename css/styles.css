@@ -17,14 +17,25 @@
 }
 
 .jumbotron {
-    padding: 50px 30px 50px 30px;
+    padding: 40px 30px 40px 30px;
     margin: 0px auto;
-    background: red;
-    color: aqua;
+    background: #B2BEB5;
+    color: black;
 }
 
-.address {
+address {
     font-size: 80%;
     margin: 0px auto;
     color: black;
+}
+body{
+    padding : 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+.navbar-dark {
+    background: #512d85;
+}
+.nav-item {
+    padding: 0px 0px 0px 20px;
 }
