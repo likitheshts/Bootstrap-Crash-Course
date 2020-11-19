@@ -17,10 +17,10 @@
 }
 
 .jumbotron {
-    padding: 40px 30px 40px 30px;
+ padding: 40px 30px 40px 30px;
     margin: 0px auto;
-    background: #B2BEB5;
-    color: black;
+    background:#8A2BE2;
+    color: cornsilk;
 }
 
 address {
